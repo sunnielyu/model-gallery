@@ -20,7 +20,6 @@ config_file: |
 
 files:
     - filename: "codellama-7b.ggmlv3.Q4_K_M.bin"
-      sha256: "0701500c591c2c1b910516658e58044cdfa07b2e8b5a2e3b6808d983441daf1a"
       uri: "https://huggingface.co/TheBloke/CodeLlama-7B-GGML/blob/main/codellama-7b.ggmlv3.Q4_K_M.bin"
 
 prompt_templates:
